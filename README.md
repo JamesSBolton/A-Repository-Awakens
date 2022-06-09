@@ -42,7 +42,7 @@ https://guides.github.com/introduction/flow/
 
 ## Stakeholders
 
-Charreau Bell, co-instructor
+James Bolton - Student and learner
 
 Jesse Spencer-Smith, co-instructor
 
