@@ -42,7 +42,7 @@ https://guides.github.com/introduction/flow/
 
 ## Stakeholders
 
-Charreau Bell, co-instructor
+Jarrod Smith, Center for Structural Biology
 
 Jesse Spencer-Smith, co-instructor
 
