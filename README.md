@@ -42,7 +42,9 @@ https://guides.github.com/introduction/flow/
 
 ## Stakeholders
 
+Jarrod Smith, Center for Structural Biology
 James Bolton - Student and learner
+
 
 Jesse Spencer-Smith, co-instructor
 
